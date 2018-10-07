@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcInjection", "MvcInjection\MvcInjection.csproj", "{6C7A3BE3-95E7-41D6-9424-4CA4FDD6B9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7A3BE3-95E7-41D6-9424-4CA4FDD6B9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7A3BE3-95E7-41D6-9424-4CA4FDD6B9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7A3BE3-95E7-41D6-9424-4CA4FDD6B9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7A3BE3-95E7-41D6-9424-4CA4FDD6B9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4214B0-B0CC-4785-B80C-2EB77D2C2630}
+	EndGlobalSection
+EndGlobal
