@@ -1,0 +1,6 @@
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\bin\Debug\MVCInjection.Model.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\bin\Debug\MVCInjection.Model.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\obj\Debug\MVCInjection.Model.csprojAssemblyReference.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\obj\Debug\MVCInjection.Model.csproj.CoreCompileInputs.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\obj\Debug\MVCInjection.Model.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Model\obj\Debug\MVCInjection.Model.pdb

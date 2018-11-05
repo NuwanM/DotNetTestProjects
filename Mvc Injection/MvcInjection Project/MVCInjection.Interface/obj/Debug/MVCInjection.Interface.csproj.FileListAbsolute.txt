@@ -1,0 +1,9 @@
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\bin\Debug\MVCInjection.Interface.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\bin\Debug\MVCInjection.Interface.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\bin\Debug\MVCInjection.Model.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\bin\Debug\MVCInjection.Model.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\obj\Debug\MVCInjection.Interface.csprojAssemblyReference.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\obj\Debug\MVCInjection.Interface.csproj.CoreCompileInputs.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\obj\Debug\MVCInjection.Interface.csproj.CopyComplete
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\obj\Debug\MVCInjection.Interface.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Interface\obj\Debug\MVCInjection.Interface.pdb

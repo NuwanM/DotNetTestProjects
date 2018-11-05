@@ -1,0 +1,13 @@
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Concrete.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Concrete.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\Dapper.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Interface.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Model.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Interface.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\MVCInjection.Model.pdb
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\bin\Debug\Dapper.xml
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.csprojAssemblyReference.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.csproj.CoreCompileInputs.cache
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.csproj.CopyComplete
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.dll
+E:\DotNetTestProjects\DotNetTestProjects\MvcInjection\MvcInjection Project\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.pdb
